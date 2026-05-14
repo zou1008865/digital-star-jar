@@ -1,8 +1,23 @@
 {
   "name": "digital-star-jar",
   "version": "1.0.0",
+  "description": "A mindful self-discipline ritual app that turns daily actions into falling stars.",
   "private": true,
   "type": "module",
+  "homepage": "https://zou1008865.github.io/digital-star-jar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zou1008865/digital-star-jar.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "vite",
+    "matter-js",
+    "habit-tracker",
+    "self-discipline",
+    "github-pages"
+  ],
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "vite build",
