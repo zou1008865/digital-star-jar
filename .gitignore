@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.npm-cache/
+.chrome-profile/
+.chrome-profile-2/
+.idea/
+out/
+*.log
+*.iml
+Digital-Star-Jar.zip
+src/*.java
